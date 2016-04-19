@@ -2,7 +2,7 @@
   "name": "slickgrid-edgemetric",
   "version": "2.2.6",
   "description": "A lightning fast JavaScript grid/spreadsheet http://wiki.github.com/mleibman/SlickGrid",
-  "main": "slick.core.js",
+  "main": "index.js",
   "directories": {
     "example": "examples",
     "test": "tests"
