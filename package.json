@@ -1,0 +1,28 @@
+{
+  "name": "slickgrid-edgemetric",
+  "version": "2.2.6",
+  "description": "A lightning fast JavaScript grid/spreadsheet http://wiki.github.com/mleibman/SlickGrid",
+  "main": "slick.core.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgeMetric/SlickGrid.git"
+  },
+  "keywords": [
+    "SlickGrid",
+    "slickgrid",
+    "grid"
+  ],
+  "author": "Michael Leibman <michael.leibman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdgeMetric/SlickGrid/issues"
+  },
+  "homepage": "https://github.com/EdgeMetric/SlickGrid#readme"
+}
