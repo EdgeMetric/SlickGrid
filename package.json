@@ -24,9 +24,5 @@
   "bugs": {
     "url": "https://github.com/EdgeMetric/SlickGrid/issues"
   },
-  "homepage": "https://github.com/EdgeMetric/SlickGrid#readme",
-  "dependencies": {
-    "jquery": "^2.1",
-    "jquery.event.drag": "^2.2.2"
-  }
+  "homepage": "https://github.com/EdgeMetric/SlickGrid#readme"
 }
